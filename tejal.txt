@@ -1,1 +1,3 @@
 this is new document
+
+A good day
